@@ -2,7 +2,7 @@
 title: "Performance: profiling and optimisation"
 description: "How to profile research software to find performance bottlenecks and apply targeted optimisation techniques, with pointers to language-specific profiling and optimisation guidance."
 contributors: ["Xavier Raj"]
-page_id: performance
+page_id: performance_profiling_and_optimization
 related_pages:
   tasks: [languages_tools_infrastructures, improving_environmental_sustainability, maintaining_research_software, writing_readable_code]
 quality_indicators: []
