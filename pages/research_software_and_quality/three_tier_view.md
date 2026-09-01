@@ -97,5 +97,5 @@ By mapping specific SMP requirements to each tier, researchers and institutions 
 ## Research software quality guidance for each RS tier
 Each research software tier may have different quality expectations from different communities, making it difficult to suggest a consensus of which indicators should a tier address. Based on votes from experts of different communities in EVERSE, a first tiers-to-indicators alignment has been proposed in the [following page](https://everse.software/indicators/website/rs_tiers.html). The alignment is presented as a table, in which each indicator is labelled as "crucial", "recommended", "good to have" or "not relevant" for a given tier. 
 
-Additional guidance on which task pages may be browsed to address or improve a given quality indicator, together with its corresponding recommendation for each tier, is available in the [all indicators page][all_indicators] in the RSQKit.
+Additional guidance on which task pages may be browsed to address or improve a given quality indicator, together with its corresponding recommendation for each tier, is available in the [all indicators page](all_indicators) in the RSQKit.
 
