@@ -1,7 +1,8 @@
 ---
 title: "Creating software metadata with CodeMeta"
 description: "Guidance on creating a CodeMeta file for software projects."
-contributors: ["Gavin J. Pringle", "Daniel Garijo"] # Add contributors' names here
+contributors: ["Gavin Pringle", "Daniel Garijo"] # Add contributors' names here
+coordinators: ["Gavin Pringle"]
 page_id: complete_software_metadata_codemeta
 related_pages:
   your_tasks: [software_metadata]
