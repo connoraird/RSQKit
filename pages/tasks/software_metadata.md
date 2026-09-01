@@ -34,7 +34,7 @@ The type of metadata you need from software depends on your specific use case.
 - If you're aiming to replicate an analysis, versioning and dependencies matter more than authorship or titles.
 - If you're searching for new software suited to a particular task, keywords and descriptions are most relevant.
 
-Often, developers of researcg software, repositories that host it, and users have multiple objectives—sometimes balancing several of these needs at once.
+Often, developers of research software, repositories that host it, and users have multiple objectives—sometimes balancing several of these needs at once.
 
 ### Solutions
 
